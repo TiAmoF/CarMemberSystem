@@ -61,6 +61,7 @@
             // 
             // panelchargefee
             // 
+            this.panelchargefee.AutoScroll = true;
             this.panelchargefee.Controls.Add(this.panel3);
             this.panelchargefee.Controls.Add(this.label2);
             this.panelchargefee.Controls.Add(this.panel2);

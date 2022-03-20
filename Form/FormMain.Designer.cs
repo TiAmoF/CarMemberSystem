@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace CarMemberSystem
 {
-    partial class Form
+    partial class FormMain
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -31,7 +31,7 @@ namespace CarMemberSystem
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
             this.panelsystem = new System.Windows.Forms.Panel();
             this.panelCD = new System.Windows.Forms.Panel();
             this.btnQT = new HZH_Controls.Controls.UCBtnImg();
@@ -270,7 +270,7 @@ namespace CarMemberSystem
             this.btnXFSY.TipsText = "";
             this.btnXFSY.BtnClick += new System.EventHandler(this.btnXFSY_BtnClick);
             // 
-            // Form
+            // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -278,7 +278,7 @@ namespace CarMemberSystem
             this.Controls.Add(this.panelCD);
             this.Controls.Add(this.panelsystem);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form";
+            this.Name = "FormMain";
             this.Text = "泰徕丰汽车美容会员";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.panelCD.ResumeLayout(false);
