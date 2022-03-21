@@ -5,7 +5,6 @@ D:\VS项目\CarMemberSystem\bin\Debug\HZH_Controls.dll
 D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.csproj.AssemblyReference.cache
 D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.csproj.SuggestedBindingRedirects.cache
 D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.chargeFee.resources
-D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.Form.resources
 D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.Properties.Resources.resources
 D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.csproj.GenerateResource.cache
 D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.csproj.CoreCompileInputs.cache
@@ -31,3 +30,9 @@ D:\VS项目\CarMember\obj\Debug\CarMemberSystem.FormMain.resources
 D:\VS项目\CarMember\obj\Debug\CarMemberSystem.staffManagement.resources
 D:\VS项目\CarMember\obj\Debug\CarMemberSystem.storeAnalysis.resources
 D:\VS项目\CarMember\obj\Debug\CarMemberSystem.carElse.resources
+D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.carElse.resources
+D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.commodityManagement.resources
+D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.FormMain.resources
+D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.memberCenter.resources
+D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.staffManagement.resources
+D:\VS项目\CarMemberSystem\obj\Debug\CarMemberSystem.storeAnalysis.resources

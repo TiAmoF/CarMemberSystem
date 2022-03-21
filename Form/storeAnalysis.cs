@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace CarMemberSystem
 {
-    public partial class storeAnalysis : Form
+    public partial class storeAnalysis : System.Windows.Forms.Form
     {
         public storeAnalysis()
         {

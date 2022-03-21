@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace CarMemberSystem
 {
-    public partial class carElse : Form
+    public partial class carElse : System.Windows.Forms.Form
     {
         public carElse()
         {
